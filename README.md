@@ -17,3 +17,4 @@ Made a Scatterplot to see the average rating by review count
 ![Screenshot 2025-05-10 165614](https://github.com/user-attachments/assets/0e25ccab-e568-40e2-acde-e507279b1795)
 
 ##Conclusion 
+As you can see the average rating of reviews seems to be 5 stars. Also it seems that the developer Pictorem has the highest average rating.
